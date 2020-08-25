@@ -27,7 +27,7 @@
 
 
 #### - 🌐 Google, 🔭 Nasa, ISRO FanBoi,
-#### - 💬 Connect? Here 👉🏼[<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg" >](https://twitter.com/RunTimeTerror)
+#### - 💬 Connect? Here :point_right:[<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg" >](https://twitter.com/RunTimeTerror)
 
 <br />
 
@@ -59,4 +59,4 @@
 
 ***********************************
 
-#### Thank You-🙏🏼
+#### Thank You-:smiley:
