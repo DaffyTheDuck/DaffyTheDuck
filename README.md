@@ -1,4 +1,4 @@
-### Hi there, I'm DaffyDuck! 👋. <img src="https://github.com/DaffyTheDuck/ColoredBadges/blob/master/svg/pronouns/hehim.svg" >
+### Hi there, I'm DaffyDuck! 👋. 
 
 <br/>
 <a href="https://twitter.com/RunTimeTerror">
@@ -10,14 +10,11 @@
 <a href="https://www.facebook.com/mihir.bhave">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/facebook.svg" />
 </a>
-
 <br/>
 
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" alt="The Cat I Want"/>
-<br />
+![1](https://raw.githubusercontent.com/DaffyTheDuck/DaffyTheDuck/master/cat.gif)
 
-### Hi 🙋‍♂️,
-### I'm 16 years old high school guy from India.
+### Hi 🙋‍♂️, I'm 16 year old high school student from India.
 
 #### - 🥀 Learning Python <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 #### - 🥀 Learning Django <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
@@ -29,10 +26,9 @@
 #### - 🌐 Google, 🔭 Nasa, ISRO FanBoi,
 #### - 💬 Connect? Here :point_right:[<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg" >](https://twitter.com/RunTimeTerror)
 
-<br />
+<br/>
 
-**I am Into , 💻**
-
+**I am Into, 💻**
 **Python Programming, Web Development, Competetive Programming & Maths and Maths 😼**
 
 [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=DaffyTheDuck&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
@@ -41,8 +37,6 @@
 ### - Languages and Tools...
 
 <p align="center">
-
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
 <img src="https://github.com/DaffyTheDuck/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
 <img src="https://github.com/DaffyTheDuck/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
@@ -59,4 +53,4 @@
 
 ***********************************
 
-#### Thank You-:smiley:
+#### Thank You :smiley:
