@@ -1,26 +1,23 @@
-### Hi there, I'm DaffyDuck! 👋. <img src="https://github.com/DaffyTheDuck/ColoredBadges/blob/master/svg/pronouns/hehim.svg" >
-
-<br/>
-<a href="https://twitter.com/RunTimeTerror">
+### Hey, I'm DaffyDuck! 👋. <img src="https://github.com/DaffyTheDuck/ColoredBadges/blob/master/svg/pronouns/hehim.svg" >
+<!-- <a href="https://twitter.com/RunTimeTerror">
   <img align="left" alt="DaffyTheDuck"| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
+</a> -->
 <br/>
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" alt="The Cat I Want"/>
 <br />
 
-### Hi 🙋‍♂️,
+<!-- ### Hi 🙋‍♂️, -->
 ### I'm 17 years old high school guy from India.
 
-#### - 🥀 Learning Python <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-#### - 🥀 Learning Django <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-#### - 🥀 Learning HTML & CSS <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-#### - 🥀 Learning Javascript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+#### - 🚀 Learning Python <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+#### - 🚀 Learning React <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+#### - 🚀 Learning HTML & CSS <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+#### - 🚀 Learning Javascript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 
 
-#### - 🌐 Google, 🔭 Nasa, ISRO FanBoi,
+#### - 🌐 Google, 🔭 ISRO, SpaceX FanBoi,
 #### - 💬 Connect? Here :point_right:[<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg" >](https://twitter.com/RunTimeTerror)
 
 <br />
