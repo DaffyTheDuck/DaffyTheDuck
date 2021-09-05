@@ -41,13 +41,11 @@
 <img src="https://github.com/DaffyTheDuck/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
 <img src="https://github.com/DaffyTheDuck/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
 <img src="https://github.com/DaffyTheDuck/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-<img src="https://github.com/DaffyTheDuck/ColoredBadges/blob/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
+<img src="https://github.com/DaffyTheDuck/ColoredBadges/blob/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
 <img src="https://github.com/DaffyTheDuck/ColoredBadges/blob/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
 <img src="https://github.com/DaffyTheDuck/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-<img src="https://github.com/DaffyTheDuck/ColoredBadges/blob/master/svg/dev/tools/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">
-<img src="https://github.com/DaffyTheDuck/ColoredBadges/blob/master/svg/dev/tools/vmware.svg" alt="vmware" style="vertical-align:top; margin:4px">
-<img src="https://github.com/DaffyTheDuck/ColoredBadges/blob/master/svg/social/gitter.svg" alt="gitter" style="vertical-align:top; margin:4px">
-<img src="https://github.com/DaffyTheDuck/ColoredBadges/blob/master/svg/social/telegram.svg" alt="telegram" style="vertical-align"top"; margin:4px">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="css" style="vertical-align:top; margin:4px">
+<img src="https://github.com/DaffyTheDuck/ColoredBadges/blob/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align"top"; margin:4px">
 
 </p>
 
