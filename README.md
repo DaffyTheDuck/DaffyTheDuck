@@ -18,7 +18,7 @@
 
 
 #### - 🌐 Google, 🔭 ISRO, SpaceX FanBoi,
-#### - 💬 Connect? Here :point_right:[<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg" >](https://twitter.com/RunTimeTerror)
+#### - 💬 Connect? Here :point_right:[<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" >](https://www.linkedin.com/in/daffyduck/)
 
 <br />
 
