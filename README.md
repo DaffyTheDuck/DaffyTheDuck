@@ -19,6 +19,7 @@
 
 #### - 🌐 Google, 🔭 ISRO, SpaceX FanBoi,
 #### - 💬 Connect? Here :point_right:[<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" >](https://www.linkedin.com/in/daffyduck/)
+#### - [![wakatime](https://wakatime.com/badge/user/225ec6e8-411a-4a59-b0f9-65f9c89c6122.svg)](https://wakatime.com/@225ec6e8-411a-4a59-b0f9-65f9c89c6122)
 
 <br />
 
