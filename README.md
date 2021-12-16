@@ -8,7 +8,7 @@
 <br />
 
 <!-- ### Hi 🙋‍♂️, -->
-### I'm 17 years old high school guy from India.
+### I'm 18 years old high school guy from India.
 
 #### - 🚀 Learning Python <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 #### - 🚀 Learning React <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
