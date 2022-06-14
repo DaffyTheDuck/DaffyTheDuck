@@ -4,7 +4,7 @@
 </a> -->
 <br/>
 
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" alt="The Cat I Want"/>
+<img align="right" height="370px" width="550px" alt="GIF" src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" alt="The Cat I Want"/>
 <br />
 
 <!-- ### Hi 🙋‍♂️, -->
@@ -28,6 +28,10 @@
 **Python Programming, Web Development, Competetive Programming & Maths 😼**
 
 [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=DaffyTheDuck&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
+**************
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DaffyTheDuck&row=1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 *************
 ### - Languages and Tools...
