@@ -4,7 +4,7 @@
 </a> -->
 <br/>
 
-<img align="right" height="370px" width="550px" alt="GIF" src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" alt="The Cat I Want"/>
+<img align="right" height="350px" width="530px" alt="GIF" src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" alt="The Cat I Want"/>
 <br />
 
 <!-- ### Hi 🙋‍♂️, -->
