@@ -1,56 +1,87 @@
-### Hey, I'm Mihir (a.k.a DaffyDuck)! 👋. <img src="https://github.com/DaffyTheDuck/ColoredBadges/blob/master/svg/pronouns/hehim.svg" >
-<!-- <a href="https://twitter.com/RunTimeTerror">
-  <img align="left" alt="DaffyTheDuck"| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a> -->
+<p align="center">
+<img src="https://user-images.githubusercontent.com/34976093/184506324-a3c55dde-e441-41b3-807b-8c4393d39f72.png" alt="my-banner" />
+</p>
 <br/>
 
-<img align="right" height="350px" width="530px" alt="GIF" src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" alt="The Cat I Want"/>
-<br />
+## <div align="center">I'm a Second Year Engineering Student From Mumbai</div>
 
-<!-- ### Hi 🙋‍♂️, -->
-### I'm 18 years old college student from India.
+<br/>
 
-#### - 🚀 Learning Python <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-#### - 🚀 Learning React <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-#### - 🚀 Learning HTML & CSS <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-#### - 🚀 Learning Javascript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
-
-
-#### - 🌐 Google, 🔭 ISRO, SpaceX FanBoi,
-#### - 💬 Connect? Here :point_right:[<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" >](https://www.linkedin.com/in/daffyduck/)
-#### - [![wakatime](https://wakatime.com/badge/user/225ec6e8-411a-4a59-b0f9-65f9c89c6122.svg)](https://wakatime.com/@225ec6e8-411a-4a59-b0f9-65f9c89c6122)
+<div align="center">
+ <p>🎯 I'm Currently Working On My Own Projects</p>
+ <br />
+ <p>📘 I'm Currently Learning Java</p>
+ <br />
+ <p>❓ We Can Have A Great Conversation About Frontend Technologies</p>
+ <br />
+ ⚡ Fun fact: My PC Can Run Minecraft
+ <br />
+</div>
 
 <br />
 
-**I am Into , 💻**
+## <div align="center">My Skill Set</div>  
+<table><tr><td valign="top" width="33%">
 
-**Python Programming, Web Development, Competetive Programming & Maths 😼**
 
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=DaffyTheDuck&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
-**************
+### Frontend  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
+</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DaffyTheDuck&row=1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</td><td valign="top" width="33%">
 
-*************
-### - Languages and Tools...
 
-<p align="center">
 
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+### Backend  
+<div align="center">  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>   
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+</div>
 
-<img src="https://github.com/DaffyTheDuck/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-<img src="https://github.com/DaffyTheDuck/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
-<img src="https://github.com/DaffyTheDuck/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-<img src="https://github.com/DaffyTheDuck/ColoredBadges/blob/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-<img src="https://github.com/DaffyTheDuck/ColoredBadges/blob/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-<img src="https://github.com/DaffyTheDuck/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="css" style="vertical-align:top; margin:4px">
-<img src="https://github.com/DaffyTheDuck/ColoredBadges/blob/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align"top"; margin:4px">
+</td><td valign="top" width="33%">
 
-</p>
+
+
+### Programming Languages  
+<div align="center">  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br />
+
+
+## <div align="center">🏆 Github Trophies, Just For FUN</div> 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DaffyTheDuck&row=1&theme=radical" alt="my_trophies" />
+</div>
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/DaffyTheDuck" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/daffyduck" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
 ***********************************
 
-#### Thank You-:smiley:
+#### <div align="center">ありがとうございました - 🙇🏻‍♂️</div>
