@@ -3,7 +3,7 @@
 </p>
 <br/>
 
-## <div align="center">I'm a Second Year Engineering Student From Mumbai</div>
+## <div align="center">🎓 I'm a Second Year Engineering Student From Mumbai</div>
 
 <br/>
 
@@ -19,8 +19,9 @@
 </div>
 
 <br />
+<br/>
 
-## <div align="center">My Skill Set</div>  
+## <div align="center"> 👨‍💻 My Skill Set</div>  
 <table><tr><td valign="top" width="33%">
 
 
@@ -65,11 +66,13 @@
 </td></tr></table>  
 
 <br />
+<br/>
 
 ## <div align="center">📊 Github Stats</div>  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DaffyTheDuck&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>  
 
-<br/>  
+<br/>
+<br/>
 
 
 ## <div align="center">🏆 Github Trophies, Just For FUN</div> 
@@ -77,7 +80,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=DaffyTheDuck&row=1&theme=radical" alt="my_trophies" />
 </div>
 
-## Connect with me  
+<br/>
+<br/>
+
+## <div align="center"> 🤝🏻 Connect with me </div>  
 <div align="center">
 <a href="https://github.com/DaffyTheDuck" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -86,6 +92,8 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
+
+<br/>
 
 ***********************************
 
