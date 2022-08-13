@@ -66,6 +66,11 @@
 
 <br />
 
+## <div align="center">📊 Github Stats</div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DaffyTheDuck&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>  
+
+<br/>  
+
 
 ## <div align="center">🏆 Github Trophies, Just For FUN</div> 
 <div align="center">
