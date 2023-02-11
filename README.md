@@ -10,7 +10,7 @@
 <div align="center">
  <p>🎯 I'm Currently Working On My Own Projects</p>
  <br />
- <p>📘 I'm Currently Learning Java</p>
+ <p>📘 I'm Currently Learning Python and PyQT5</p>
  <br />
  <p>❓ We Can Have A Great Conversation About Frontend Technologies</p>
  <br />
