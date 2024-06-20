@@ -3,7 +3,7 @@
 </p>
 <br/>
 
-## <div align="center">🎓 I'm a Third Year Engineering Student From Mumbai</div>
+## <div align="center">🎓 I'm a Final Year Engineering Student From Mumbai</div>
 
 <br/>
 
