@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mihir
 
-- 🔭 I'm currently working on **Software Developer at Cerelabs, working on Large Language Models, Docker and Off-course Python**
+- 🔭 I'm currently working as **Software Developer at Cerelabs, on Large Language Models, Docker and Off-course Python**
 
 - 🌱 I'm currently learning **How AI and ML models work under the hood!**
 
