@@ -1,14 +1,8 @@
 # Hi 👋, I'm Mihir
 
-- 🔭 I'm currently working as **Software Developer at Cerelabs, on Large Language Models, Docker and Off-course Python**
+- 🌱 Currently learning **How AI and ML models work under the hood!**
 
-- 🌱 I'm currently learning **How AI and ML models work under the hood!**
-
-- 👯 I'm looking to collaborate on **Open Source Projects**
-
-- 🤝 I'm looking for help with **The MATH behind AIML, System Design**
-
-- 💬 Ask me about **I am still learning**
+- 👯 Looking to collaborate on **Open Source Projects**
 
 - 📫 How to reach me **bhavemihir7.work@gmail.com**
 
